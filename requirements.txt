@@ -12,7 +12,6 @@ Flask==3.0.3
 gunicorn==23.0.0
 h5py==3.11.0
 idna==3.3
-
 itsdangerous==2.2.0
 Jinja2==3.1.4
 keras==3.3.3
@@ -26,9 +25,7 @@ psutil==5.9.8
 python-dateutil==2.9.0.post0
 pytesseract==0.3.13
 PyJWT==2.3.0
-
 requests>=2.26.0
-
 six==1.16.0
 tensorboard==2.16.2
 tensorflow==2.16.1
