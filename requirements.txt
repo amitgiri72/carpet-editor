@@ -33,3 +33,4 @@ tensorflow-io-gcs-filesystem==0.37.0
 termcolor==2.4.0
 Werkzeug==3.0.3
 wrapt==1.16.0
+scikit-learn==1.2.2
